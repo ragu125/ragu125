@@ -153,3 +153,12 @@ Search products intelligently using embeddings and semantic search.
 <p align="center">
 If you like my work, consider giving a ⭐ to my repositories and let's connect!
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ragu125/ragu125/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ragu125&label=Profile+Views&color=blue&style=flat"/>
+</p>
