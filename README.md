@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:1e1b4b,70:075985,100:06b6d4&text=RAGUNANDHA%20M&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=57&descSize=17" />
