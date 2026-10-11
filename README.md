@@ -163,10 +163,3 @@ Web-based shopping experience exploring augmented reality.
 ![3D Contribution Graph](./profile-3d-contrib.svg)
 
 
-## 📅 Contribution Calendar & Activity Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ragu125&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ragu125)
-
-</div>
