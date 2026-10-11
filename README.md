@@ -176,7 +176,7 @@ Web-based shopping experience exploring augmented reality.
 <div align="center">
 
   <a href="https://leetcode.com/u/RAGUNANDHA_M/">
-    <img src="https://leetcard.jacoblin.cool/RAGUNANDHA M?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/RAGUNANDHA Mtheme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
   </a>
 
 </div>
