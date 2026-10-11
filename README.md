@@ -156,6 +156,19 @@ Web-based shopping experience exploring augmented reality.
 
 ![GitHub Snake](https://raw.githubusercontent.com/ragu125/ragu125/output/github-snake.svg)
 
+<h2 align="center">📊 3D CALENDAR & CONTRIBUTION ACTIVITY</h2>
 
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="./profile-3d-contrib.svg" width="100%" alt="3D Contribution Calendar" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragu125&theme=tokyonight" width="100%" alt="Activity Chart" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 
