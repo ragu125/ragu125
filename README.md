@@ -171,14 +171,18 @@ Web-based shopping experience exploring augmented reality.
 
 <br/>
 
-## LeetCode Stats
+<h2 align="center">LeetCode Dashboard</h2>
 
 <div align="center">
-
   <a href="https://leetcode.com/u/RAGUNANDHA_M/">
-    <img src="https://leetcard.jacoblin.cool/RAGUNANDHA Mtheme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/RAGUNANDHA_M?theme=dark&font=Baloo&ext=heatmap" alt="RAGUNANDHA_M LeetCode Stats" />
   </a>
-
 </div>
+
+<p align="center">
+  <a href="https://leetcode.com/u/RAGUNANDHA_M/">
+    Visit My LeetCode Profile →
+  </a>
+</p>
 
 
