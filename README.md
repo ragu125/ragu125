@@ -1,14 +1,16 @@
 ```markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:312e81,75:0891b2,100:06b6d4&text=RAGUNANDHA%20M&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20ENGINEER&descAlignY=59&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:1e1b4b,70:075985,100:06b6d4&text=RAGUNANDHA%20M&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=57&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Intelligent+Applications;Full+Stack+Development;Generative+AI+%26+AI+Agents;Consistency+%7C+Creativity+%7C+Growth" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Intelligent+Applications;Python+%7C+Java+%7C+Web+Development;Exploring+Generative+AI;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing SVG" />
+</a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ragu125">
-<img src="https://img.shields.io/badge/GitHub-ragu125-0b1020?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-ragu125-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="https://www.linkedin.com/in/dreamerday097/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
@@ -17,32 +19,29 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=ragu125&style=flat-square&color=0891b2&label=PROFILE+VIEWS" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ragu125&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## `01` / ABOUT ME
+<h2 align="center">👨‍💻 ABOUT ME</h2>
 
-```python
-class Ragunandha:
-    name = "Ragunandha M"
-    education = "Computer Science Engineering"
-    focus = ["Software Development", "Generative AI"]
-    languages = ["Python", "Java", "JavaScript"]
-    mindset = "Learn. Build. Improve. Repeat."
-```
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragu125&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 - 🎓 Final-year Computer Science Engineering student.
-- 💻 Interested in building full-stack applications.
+- 💻 Interested in software and full-stack development.
 - 🤖 Exploring AI assistants, LLMs and AI workflows.
-- 🧩 Practicing problem solving and data structures.
-- 🚀 Focused on building useful, real-world projects.
+- 🧩 Practicing Data Structures and Algorithms.
+- 🚀 Focused on building useful software projects.
+
+<br clear="right"/>
 
 ---
 
-## `02` / TECH ARSENAL
+<h2 align="center">⚙️ TECH STACK</h2>
 
 <div align="center">
 
@@ -50,23 +49,25 @@ class Ragunandha:
 
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" />
 
-### Development Tools
+### Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode&theme=dark" />
 
-**Currently exploring:** LLM applications · LangGraph · Backend APIs
+**Currently Exploring**
+
+Generative AI · LangGraph · LLM Applications · Backend APIs
 
 </div>
 
 ---
 
-## `03` / GITHUB ANALYTICS
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ragu125&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragu125&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragu125&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" />
 
 <br/><br/>
 
@@ -76,7 +77,7 @@ class Ragunandha:
 
 ---
 
-## `04` / CONTRIBUTION ACTIVITY
+<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
@@ -86,23 +87,13 @@ class Ragunandha:
 
 ---
 
-## `05` / CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ragu125/ragu125/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## `06` / FEATURED PROJECTS
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Zoro AI Assist
+<h3>🤖 Zoro AI Assist</h3>
 
 AI assistant project focused on context-aware responses.
 
@@ -113,12 +104,12 @@ AI assistant project focused on context-aware responses.
 - LangGraph
 - HTML, CSS and JavaScript
 
-<a href="https://github.com/ragu125?tab=repositories">Explore repositories →</a>
+<a href="https://github.com/ragu125?tab=repositories">Explore Repositories →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛍️ AR Shopping Mall
+<h3>🛍️ AR Shopping Mall</h3>
 
 Web-based shopping experience exploring augmented reality.
 
@@ -128,7 +119,7 @@ Web-based shopping experience exploring augmented reality.
 - AR-related technologies
 - API backend
 
-<a href="https://github.com/ragu125?tab=repositories">Explore repositories →</a>
+<a href="https://github.com/ragu125?tab=repositories">Explore Repositories →</a>
 
 </td>
 </tr>
@@ -136,39 +127,51 @@ Web-based shopping experience exploring augmented reality.
 
 ---
 
-## `07` / CODING PROFILE
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://github.com/ragu125?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-22D3EE?style=for-the-badge&logo=github&logoColor=black" />
-</a>
+<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ragu125/ragu125/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-## `08` / CURRENT OBJECTIVES
-
-- [ ] Improve DSA and interview problem solving.
-- [ ] Build more full-stack projects.
-- [ ] Deepen knowledge of backend development.
-- [ ] Create practical AI-powered applications.
-- [ ] Contribute to open-source projects.
-
----
+<h2 align="center">🎯 CURRENT GOALS</h2>
 
 <div align="center">
 
-### `BUILD • LEARN • SHIP • REPEAT`
+| Focus Area | Goal |
+|:--|:--|
+| 💻 Problem Solving | Improve DSA and coding skills |
+| 🌐 Development | Build more full-stack projects |
+| 🤖 Artificial Intelligence | Develop useful AI applications |
+| 🗄️ Backend | Improve API and database skills |
+| 🌍 Open Source | Start contributing to projects |
 
-<sub>Designed with focus. Built with curiosity.</sub>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:020617&height=120&section=footer" />
+---
+
+<h2 align="center">🤝 CONNECT WITH ME</h2>
+
+<div align="center">
+
+<a href="https://github.com/ragu125">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/dreamerday097/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:dreamerday097@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💡 LEARN • BUILD • IMPROVE • REPEAT
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06b6d4,50:312e81,100:020617&section=footer" />
 
 </div>
 ```
