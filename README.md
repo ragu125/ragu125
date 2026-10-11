@@ -75,18 +75,6 @@ Generative AI · LangGraph · LLM Applications · Backend APIs
 
 </div>
 
----
-
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ragu125&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
-
----
-
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <table>
