@@ -113,18 +113,6 @@ Web-based shopping experience exploring augmented reality.
 </tr>
 </table>
 
----
-
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
-<div align="center">
-
-<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ragu125/ragu125/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 <h2 align="center">🎯 CURRENT GOALS</h2>
 
 <div align="center">
