@@ -158,26 +158,4 @@ Web-based shopping experience exploring augmented reality.
 
 
 
-## 📊 3D Contribution Calendar
 
-![3D Contribution Graph](./profile-3d-contrib.svg)
-
-<h2 align="center">🐍 CONTRIBUTION ACTIVITY & 3D CALENDAR</h2>
-
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragu125&theme=tokyonight" width="100%" alt="Activity Chart" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="./profile-3d-contrib.svg" width="100%" alt="3D Contribution Calendar" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/ragu125/ragu125/output/github-snake.svg" width="100%" alt="GitHub Snake" />
-</div>
