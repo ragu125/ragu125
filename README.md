@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:1e1b4b,70:075985,100:06b6d4&text=RAGUNANDHA%20M&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=57&descSize=17" />
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Intelligent+Applications;Python+%7C+Java+%7C+Web+Development;Exploring+Generative+AI;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Intelligent+Applications;Python+%7C+Web+Development;Exploring+Generative+AI;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing SVG" />
 </a>
 
 <br/><br/>
