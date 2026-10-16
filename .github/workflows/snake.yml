@@ -21,7 +21,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake animation
+      - name: Publish snake animation  
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
