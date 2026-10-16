@@ -185,4 +185,4 @@ Web-based shopping experience exploring augmented reality.
   </a>
 </p>
 
-
+![Growing GitHub Snake](https://raw.githubusercontent.com/ragu125/ragu125/output/github-snake.gif)
