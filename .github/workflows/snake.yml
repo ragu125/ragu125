@@ -1,5 +1,5 @@
 
-name: Generate Growing Snake
+name: Generate GitHub Contribution Snake
 
 on:
   schedule:
@@ -12,26 +12,16 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
         with:
-          python-version: "3.12"
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Install Pillow
-        run: pip install pillow
-
-      - name: Generate Growing Snake
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: ${{ github.repository_owner }}
-        run: python scripts/growing_snake.py
-
-      - name: Publish animation
+      - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
