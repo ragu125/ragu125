@@ -184,5 +184,3 @@ Web-based shopping experience exploring augmented reality.
     Visit My LeetCode Profile →
   </a>
 </p>
-
-![GitHub Snake](https://raw.githubusercontent.com/ragu125/ragu125/output/github-snake.svg)
