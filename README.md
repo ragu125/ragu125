@@ -20,7 +20,7 @@
 </a>
 
 <br/><br/>
-
+</div>
 <img src="https://komarev.com/ghpvc/?username=ragu125&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
 
 </div>
