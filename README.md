@@ -19,13 +19,9 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
-</div>
-<img src="https://komarev.com/ghpvc/?username=ragu125&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ragu125&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
+</p>
 
 <h2 align="center">👨‍💻 ABOUT ME</h2>
 
